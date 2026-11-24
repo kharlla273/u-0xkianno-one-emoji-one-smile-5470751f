@@ -1,5 +1,11 @@
 # One Emoji, One Smile
 
+[![make.fun · u-0xkianno-one-emoji-one-smile-5470751f](https://make.fun/badge/u-0xkianno-one-emoji-one-smile-5470751f.svg)](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-emoji-one-smile-5470751f)
+[![rank](https://make.fun/badge/u-0xkianno-one-emoji-one-smile-5470751f/kharlla273/u-0xkianno-one-emoji-one-smile-5470751f/rank.svg)](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-emoji-one-smile-5470751f)
+[![reward](https://make.fun/badge/u-0xkianno-one-emoji-one-smile-5470751f/kharlla273/u-0xkianno-one-emoji-one-smile-5470751f/reward.svg)](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-emoji-one-smile-5470751f)
+
+Built for make.fun's [one-emoji-one-smile bounty](https://make.fun/bounty/u-0xkianno-one-emoji-one-smile-5470751f).
+
 A program that writes exactly one emoji — 🫶 (heart hands) — to `/output/entry.txt`.
 
 Entered on [make.fun](https://make.fun/?ref=n305kcfc) for the "One Emoji, One Smile" bounty ($5 in USDC). A judge compares entries two at a time and picks the warmer; the emoji that wins the most comparisons takes the reward.
